@@ -1,0 +1,4 @@
+# Versions match Apache Airflow 3.3.1 Python 3.12 constraints.
+pandas==3.0.5
+psycopg2-binary==2.9.12
+SQLAlchemy==2.0.51

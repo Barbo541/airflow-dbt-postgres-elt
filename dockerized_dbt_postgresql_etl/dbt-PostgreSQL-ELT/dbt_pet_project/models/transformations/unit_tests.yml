@@ -1,0 +1,28 @@
+version: 2
+unit_tests:
+  - name: normalize_using_explicit_provenance
+    model: fill_nulls_and_replace_2
+    given:
+      - input: ref('combine_health_and_act_1')
+        rows:
+          - {event_id: 'health:1', event_source: health, activity_type: null}
+          - {event_id: 'activity:1', event_source: activity, activity_type: ' Walk '}
+          - {event_id: 'activity:2', event_source: activity, activity_type: ' '}
+    expect:
+      rows:
+        - {event_id: 'health:1', event_source: health, activity_type: Health}
+        - {event_id: 'activity:1', event_source: activity, activity_type: Walking}
+        - {event_id: 'activity:2', event_source: activity, activity_type: null}
+  - name: duration_and_blank_semantics
+    model: clean_fields_3
+    given:
+      - input: ref('fill_nulls_and_replace_2')
+        rows:
+          - {event_id: 'health:1', event_source: health, activity_type: Health, duration_minutes: null, issue: ''}
+          - {event_id: 'activity:1', event_source: activity, activity_type: Walking, duration_minutes: '-'}
+          - {event_id: 'activity:2', event_source: activity, activity_type: Playing, duration_minutes: '15'}
+    expect:
+      rows:
+        - {event_id: 'health:1', duration_minutes: 0, issue: null}
+        - {event_id: 'activity:1', duration_minutes: null, issue: null}
+        - {event_id: 'activity:2', duration_minutes: 15, issue: null}

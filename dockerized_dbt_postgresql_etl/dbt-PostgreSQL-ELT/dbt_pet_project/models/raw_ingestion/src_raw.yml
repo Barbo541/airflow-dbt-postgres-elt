@@ -1,0 +1,62 @@
+version: 2
+
+sources:
+  - name: raw
+    tags: [raw_data]
+    description: >-
+      Atomic snapshot ingestion of the three synthetic CSV sources. Physical
+      parsing and basic type validation happen in Python before PostgreSQL is
+      modified; dbt validates referential and business-facing source contracts.
+    schema: raw
+    tables:
+      - name: raw_users
+        description: One row per pet with owner attributes.
+        columns:
+          - name: pet_id
+            tests: [not_null, unique]
+          - name: owner_id
+            tests: [not_null]
+          - name: owner_age_group
+            tests:
+              - not_null
+              - accepted_values:
+                  values: ['18-25', '26-35', '36-45', '46-55', '56-65', '66+']
+          - name: pet_type
+            tests:
+              - not_null
+              - accepted_values:
+                  values: ['Cat', 'Dog']
+
+      - name: raw_pet_health
+        description: One health source row, identified by its one-based CSV record ordinal.
+        columns:
+          - name: source_row_number
+            tests: [not_null, unique]
+          - name: pet_id
+            tests:
+              - not_null
+              - relationships:
+                  to: source('raw', 'raw_users')
+                  field: pet_id
+          - name: date
+            tests: [not_null]
+          - name: issue
+          - name: resolution
+
+      - name: raw_pet_activity
+        description: One activity source row, identified by its one-based CSV record ordinal.
+        columns:
+          - name: source_row_number
+            tests: [not_null, unique]
+          - name: pet_id
+            tests:
+              - not_null
+              - relationships:
+                  to: source('raw', 'raw_users')
+                  field: pet_id
+          - name: date
+            tests: [not_null]
+          - name: activity_type
+            tests: [not_null]
+          - name: duration_minutes
+            description: Raw text; '-' and blanks are normalized downstream.

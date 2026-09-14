@@ -1,0 +1,41 @@
+# Python virtual environments
+venv/
+.env/
+.venv/
+.env
+
+# Python caches and local tooling artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.coverage
+.coverage.*
+htmlcov/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+
+# dbt artifacts
+dbt_pet_project/target/
+dbt_pet_project/logs/
+dbt_pet_project/.user.yml
+dbt_pet_project/dbt_packages/
+
+# Airflow artifacts
+airflow/logs/
+airflow/__pycache__/
+airflow/airflow.db
+airflow/standalone_admin_password.txt
+
+# Docker
+*.pid
+*.log
+
+# OS / Editor
+.DS_Store
+.idea/
+.vscode/
+
+# PostgreSQL
+postgres/data/

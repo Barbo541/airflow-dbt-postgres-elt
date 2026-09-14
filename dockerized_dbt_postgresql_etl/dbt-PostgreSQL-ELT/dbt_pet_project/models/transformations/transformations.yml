@@ -1,0 +1,47 @@
+version: 2
+
+models:
+  - name: combine_health_and_act_1
+    description: "UNION ALL event log preserving source and static CSV record identity."
+    columns:
+      - name: pet_id
+        tests:
+          - not_null
+      - name: date
+        tests:
+          - not_null
+      - name: issue
+      - name: resolution
+      - name: activity_type
+      - name: duration_minutes
+
+
+  -  name: fill_nulls_and_replace_2
+     description: "Uses explicit health provenance to label health records.
+       Activity labels are trimmed; empty activity labels remain invalid.
+       Also standardizes activity names by replacing:
+       'Walk' with 'Walking', 'Rest' with 'Resting', and 'Play' with 'Playing'."
+     columns:
+     - name: pet_id
+     - name: issue
+     - name: resolution
+     - name: activity_type
+       tests:
+            - not_null
+            - accepted_values:
+                values: ['Walking', 'Running', 'Playing', 'Resting', 'Health']
+     - name: duration_minutes
+
+  -  name: clean_fields_3
+     description: "Cleans the activity and health event records by standardizing blank values and coercing types.
+       Blank strings in 'issue' and 'resolution' are converted to nulls. Duration is set to 0 for health source events,
+       and string placeholders like '-' in 'duration_minutes' are also converted to nulls. All durations are cast to integer."
+     columns:
+      - name: pet_id # no changes
+      - name: date
+      - name: issue
+      - name: resolution
+      - name: duration_minutes
+
+
+

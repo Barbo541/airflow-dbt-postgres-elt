@@ -1,0 +1,941 @@
+pet_id,visit_date,issue,resolution
+204,2025-06-05,Routine check,Resolved
+56,2025-05-26,Dental check,Monitoring
+104,2025-04-19,Skin irritation,Follow-up scheduled
+89,2025-01-18,Routine check,Follow-up scheduled
+495,2025-01-14,Routine check,Resolved
+448,2025-03-13,Skin irritation,Resolved
+291,2025-01-27,Dental check,Monitoring
+272,2025-04-04,Vaccination,Resolved
+396,2025-01-17,Vaccination,Resolved
+412,2025-06-08,Skin irritation,Follow-up scheduled
+80,2025-01-20,Skin irritation,Follow-up scheduled
+367,2025-04-25,Routine check,Resolved
+408,2025-05-26,Vaccination,Follow-up scheduled
+504,2025-02-01,Skin irritation,Monitoring
+471,2025-06-27,Vaccination,Resolved
+346,2025-06-13,Skin irritation,Follow-up scheduled
+376,2025-04-05,Skin irritation,Monitoring
+144,2025-03-31,Skin irritation,Resolved
+54,2025-05-04,Routine check,Resolved
+120,2025-02-10,Routine check,Follow-up scheduled
+475,2025-03-29,Dental check,Resolved
+450,2025-04-07,Routine check,Follow-up scheduled
+412,2025-01-21,Skin irritation,Monitoring
+501,2025-06-24,Vaccination,Monitoring
+200,2025-05-11,Skin irritation,Resolved
+171,2025-02-10,Vaccination,Resolved
+514,2025-01-05,Vaccination,Follow-up scheduled
+426,2025-03-22,Skin irritation,Resolved
+258,2025-04-09,Routine check,Resolved
+470,2025-01-21,Skin irritation,Monitoring
+514,2025-04-22,Skin irritation,Resolved
+202,2025-04-07,Routine check,Follow-up scheduled
+51,2025-04-18,Vaccination,Follow-up scheduled
+26,2025-01-10,Skin irritation,Resolved
+407,2025-01-07,Vaccination,Resolved
+202,2025-05-14,Dental check,Follow-up scheduled
+437,2025-01-25,Vaccination,Monitoring
+284,2025-05-01,Routine check,Resolved
+106,2025-03-30,Skin irritation,Resolved
+446,2025-01-23,Routine check,Monitoring
+372,2025-02-19,Routine check,Monitoring
+152,2025-01-05,Vaccination,Follow-up scheduled
+342,2025-04-12,Dental check,Resolved
+312,2025-04-24,Vaccination,Follow-up scheduled
+216,2025-03-24,Routine check,Monitoring
+450,2025-03-01,Vaccination,Resolved
+337,2025-03-31,Dental check,Monitoring
+215,2025-03-15,Routine check,Resolved
+364,2025-03-10,Skin irritation,Monitoring
+16,2025-05-25,Vaccination,Follow-up scheduled
+460,2025-01-27,Skin irritation,Resolved
+351,2025-05-31,Dental check,Resolved
+491,2025-06-28,Skin irritation,Resolved
+468,2025-03-18,Vaccination,Resolved
+156,2025-03-07,Routine check,Monitoring
+404,2025-06-29,Skin irritation,Follow-up scheduled
+225,2025-02-17,Routine check,Resolved
+258,2025-01-31,Skin irritation,Monitoring
+316,2025-02-25,Skin irritation,Follow-up scheduled
+160,2025-05-13,Routine check,Monitoring
+268,2025-03-06,Dental check,Resolved
+367,2025-01-01,Routine check,Resolved
+498,2025-03-14,Routine check,Monitoring
+462,2025-04-30,Dental check,Monitoring
+301,2025-05-16,Vaccination,Follow-up scheduled
+181,2025-05-17,Dental check,Follow-up scheduled
+489,2025-02-12,Vaccination,Monitoring
+250,2025-01-01,Routine check,Resolved
+285,2025-05-22,Skin irritation,Follow-up scheduled
+400,2025-03-23,Routine check,Monitoring
+320,2025-02-16,Dental check,Follow-up scheduled
+186,2025-06-17,Skin irritation,Resolved
+474,2025-06-11,Skin irritation,Monitoring
+147,2025-03-05,Routine check,Resolved
+43,2025-03-23,Skin irritation,Follow-up scheduled
+183,2025-05-18,Dental check,Resolved
+134,2025-02-08,Skin irritation,Resolved
+301,2025-02-05,Vaccination,Follow-up scheduled
+104,2025-05-26,Routine check,Resolved
+144,2025-06-18,Routine check,Monitoring
+275,2025-01-24,Routine check,Follow-up scheduled
+180,2025-06-20,Skin irritation,Follow-up scheduled
+188,2025-04-10,Vaccination,Follow-up scheduled
+314,2025-05-26,Dental check,Follow-up scheduled
+237,2025-03-11,Vaccination,Follow-up scheduled
+116,2025-06-04,Skin irritation,Follow-up scheduled
+168,2025-04-16,Skin irritation,Resolved
+178,2025-03-12,Dental check,Monitoring
+28,2025-04-09,Skin irritation,Follow-up scheduled
+182,2025-06-15,Dental check,Follow-up scheduled
+447,2025-03-12,Dental check,Follow-up scheduled
+52,2025-02-11,Skin irritation,Monitoring
+513,2025-02-13,Routine check,Resolved
+236,2025-05-09,Vaccination,Monitoring
+5,2025-03-12,Skin irritation,Monitoring
+470,2025-01-22,Vaccination,Monitoring
+75,2025-02-08,Routine check,Resolved
+469,2025-03-28,Skin irritation,Resolved
+364,2025-06-15,Dental check,Follow-up scheduled
+124,2025-03-01,Vaccination,Monitoring
+72,2025-01-18,Vaccination,Monitoring
+72,2025-03-20,Routine check,Follow-up scheduled
+88,2025-06-01,Vaccination,Follow-up scheduled
+297,2025-05-14,Routine check,Resolved
+257,2025-01-20,Skin irritation,Follow-up scheduled
+98,2025-04-12,Dental check,Monitoring
+393,2025-02-09,Vaccination,Monitoring
+203,2025-03-06,Routine check,Follow-up scheduled
+474,2025-04-01,Dental check,Follow-up scheduled
+299,2025-01-13,Routine check,Follow-up scheduled
+124,2025-05-27,Vaccination,Resolved
+200,2025-04-11,Skin irritation,Monitoring
+221,2025-04-01,Dental check,Follow-up scheduled
+162,2025-04-17,Skin irritation,Resolved
+144,2025-05-13,Vaccination,Monitoring
+403,2025-06-18,Vaccination,Monitoring
+518,2025-02-06,Routine check,Resolved
+32,2025-05-31,Routine check,Resolved
+253,2025-05-28,Skin irritation,Monitoring
+213,2025-04-02,Skin irritation,Resolved
+506,2025-01-06,Routine check,Resolved
+357,2025-04-13,Routine check,Resolved
+19,2025-05-11,Vaccination,Monitoring
+173,2025-01-29,Dental check,Monitoring
+510,2025-01-03,Routine check,Follow-up scheduled
+327,2025-04-28,Routine check,Monitoring
+232,2025-01-29,Vaccination,Follow-up scheduled
+400,2025-05-25,Dental check,Resolved
+256,2025-04-29,Dental check,Monitoring
+34,2025-06-15,Vaccination,Follow-up scheduled
+86,2025-01-03,Skin irritation,Follow-up scheduled
+198,2025-02-01,Vaccination,Monitoring
+59,2025-01-02,Routine check,Monitoring
+31,2025-04-30,Skin irritation,Follow-up scheduled
+427,2025-01-27,Skin irritation,Resolved
+38,2025-01-20,Routine check,Monitoring
+212,2025-01-07,Dental check,Resolved
+175,2025-04-03,Vaccination,Resolved
+382,2025-06-12,Skin irritation,Resolved
+307,2025-04-24,Vaccination,Monitoring
+228,2025-02-10,Skin irritation,Resolved
+520,2025-03-02,Vaccination,Monitoring
+198,2025-01-22,Dental check,Monitoring
+180,2025-03-06,Routine check,Resolved
+509,2025-05-22,Routine check,Monitoring
+371,2025-03-24,Skin irritation,Resolved
+254,2025-01-30,Skin irritation,Resolved
+111,2025-04-01,Dental check,Resolved
+43,2025-02-08,Routine check,Follow-up scheduled
+46,2025-06-05,Skin irritation,Follow-up scheduled
+151,2025-06-12,Vaccination,Resolved
+169,2025-03-16,Routine check,Follow-up scheduled
+401,2025-01-23,Routine check,Resolved
+45,2025-02-05,Skin irritation,Monitoring
+438,2025-03-16,Vaccination,Monitoring
+117,2025-01-10,Dental check,Follow-up scheduled
+280,2025-03-28,Routine check,Monitoring
+331,2025-04-04,Dental check,Resolved
+86,2025-03-26,Routine check,Follow-up scheduled
+478,2025-05-17,Skin irritation,Resolved
+309,2025-02-24,Dental check,Monitoring
+36,2025-06-19,Dental check,Follow-up scheduled
+168,2025-03-28,Dental check,Follow-up scheduled
+123,2025-06-27,Skin irritation,Follow-up scheduled
+253,2025-01-24,Routine check,Resolved
+262,2025-05-25,Dental check,Monitoring
+460,2025-05-04,Skin irritation,Resolved
+202,2025-05-21,Skin irritation,Monitoring
+81,2025-03-03,Skin irritation,Resolved
+44,2025-04-09,Dental check,Follow-up scheduled
+162,2025-03-02,Vaccination,Resolved
+214,2025-03-04,Skin irritation,Resolved
+371,2025-01-13,Skin irritation,Follow-up scheduled
+421,2025-06-07,Dental check,Follow-up scheduled
+394,2025-03-14,Vaccination,Follow-up scheduled
+361,2025-06-16,Dental check,Resolved
+448,2025-03-27,Vaccination,Monitoring
+463,2025-05-13,Skin irritation,Follow-up scheduled
+180,2025-04-20,Skin irritation,Resolved
+338,2025-01-04,Vaccination,Monitoring
+399,2025-01-11,Vaccination,Monitoring
+4,2025-05-07,Routine check,Resolved
+7,2025-01-17,Skin irritation,Monitoring
+25,2025-02-18,Skin irritation,Follow-up scheduled
+432,2025-06-21,Vaccination,Follow-up scheduled
+433,2025-03-24,Dental check,Resolved
+459,2025-01-29,Routine check,Follow-up scheduled
+29,2025-03-01,Vaccination,Follow-up scheduled
+430,2025-03-09,Vaccination,Follow-up scheduled
+356,2025-03-23,Dental check,Resolved
+5,2025-06-22,Routine check,Resolved
+379,2025-05-10,Skin irritation,Resolved
+355,2025-06-10,Vaccination,Follow-up scheduled
+366,2025-03-03,Routine check,Monitoring
+319,2025-06-23,Vaccination,Monitoring
+207,2025-06-05,Dental check,Monitoring
+391,2025-06-06,Routine check,Follow-up scheduled
+352,2025-04-14,Vaccination,Follow-up scheduled
+475,2025-04-27,Skin irritation,Resolved
+58,2025-05-04,Vaccination,Resolved
+389,2025-06-14,Dental check,Resolved
+186,2025-01-18,Dental check,Monitoring
+183,2025-04-06,Routine check,Monitoring
+4,2025-02-23,Routine check,Resolved
+272,2025-05-30,Vaccination,Resolved
+509,2025-02-02,Skin irritation,Follow-up scheduled
+83,2025-06-07,Routine check,Monitoring
+506,2025-02-17,Vaccination,Follow-up scheduled
+115,2025-02-19,Dental check,Resolved
+357,2025-04-01,Skin irritation,Monitoring
+385,2025-06-19,Dental check,Resolved
+242,2025-03-19,Routine check,Monitoring
+32,2025-02-10,Skin irritation,Follow-up scheduled
+292,2025-05-05,Skin irritation,Monitoring
+176,2025-02-01,Skin irritation,Resolved
+124,2025-05-02,Dental check,Resolved
+402,2025-06-29,Skin irritation,Follow-up scheduled
+282,2025-01-14,Skin irritation,Follow-up scheduled
+334,2025-05-31,Dental check,Monitoring
+292,2025-04-30,Dental check,Follow-up scheduled
+273,2025-02-26,Dental check,Follow-up scheduled
+441,2025-06-11,Routine check,Follow-up scheduled
+100,2025-01-14,Dental check,Resolved
+451,2025-06-19,Skin irritation,Monitoring
+398,2025-01-07,Dental check,Follow-up scheduled
+461,2025-02-05,Skin irritation,Monitoring
+23,2025-05-18,Routine check,Monitoring
+172,2025-02-02,Dental check,Resolved
+37,2025-03-15,Vaccination,Resolved
+221,2025-05-01,Vaccination,Monitoring
+176,2025-01-11,Skin irritation,Follow-up scheduled
+21,2025-05-12,Vaccination,Follow-up scheduled
+484,2025-03-06,Vaccination,Resolved
+380,2025-05-26,Skin irritation,Monitoring
+452,2025-03-10,Routine check,Follow-up scheduled
+231,2025-04-01,Dental check,Resolved
+133,2025-03-24,Routine check,Monitoring
+130,2025-03-22,Routine check,Monitoring
+434,2025-06-19,Skin irritation,Resolved
+448,2025-01-19,Dental check,Monitoring
+191,2025-04-21,Dental check,Resolved
+457,2025-05-14,Skin irritation,Monitoring
+304,2025-04-20,Vaccination,Follow-up scheduled
+278,2025-01-09,Routine check,Monitoring
+229,2025-06-18,Dental check,Resolved
+517,2025-03-14,Vaccination,Follow-up scheduled
+337,2025-02-20,Routine check,Resolved
+121,2025-06-13,Dental check,Monitoring
+456,2025-06-20,Dental check,Resolved
+64,2025-01-03,Skin irritation,Monitoring
+445,2025-04-27,Skin irritation,Follow-up scheduled
+55,2025-01-16,Routine check,Monitoring
+42,2025-03-27,Routine check,Monitoring
+399,2025-02-06,Vaccination,Monitoring
+119,2025-05-01,Routine check,Resolved
+502,2025-02-05,Routine check,Follow-up scheduled
+238,2025-02-21,Vaccination,Follow-up scheduled
+464,2025-06-08,Dental check,Monitoring
+242,2025-03-26,Routine check,Follow-up scheduled
+46,2025-01-21,Vaccination,Resolved
+150,2025-06-28,Skin irritation,Monitoring
+193,2025-03-23,Vaccination,Monitoring
+123,2025-01-03,Dental check,Follow-up scheduled
+452,2025-05-03,Dental check,Resolved
+287,2025-06-25,Routine check,Monitoring
+264,2025-02-12,Skin irritation,Follow-up scheduled
+46,2025-04-06,Vaccination,Monitoring
+194,2025-04-01,Dental check,Monitoring
+208,2025-02-21,Dental check,Follow-up scheduled
+300,2025-02-11,Dental check,Resolved
+446,2025-02-22,Skin irritation,Monitoring
+343,2025-02-17,Dental check,Monitoring
+110,2025-02-16,Dental check,Monitoring
+354,2025-03-17,Vaccination,Monitoring
+427,2025-04-06,Skin irritation,Follow-up scheduled
+86,2025-02-14,Dental check,Follow-up scheduled
+302,2025-05-29,Skin irritation,Resolved
+37,2025-03-19,Skin irritation,Follow-up scheduled
+500,2025-01-04,Skin irritation,Resolved
+126,2025-04-10,Routine check,Follow-up scheduled
+501,2025-03-12,Dental check,Resolved
+250,2025-05-10,Vaccination,Monitoring
+290,2025-01-13,Routine check,Resolved
+173,2025-02-15,Dental check,Monitoring
+436,2025-06-25,Vaccination,Resolved
+118,2025-03-03,Vaccination,Monitoring
+124,2025-01-18,Dental check,Resolved
+273,2025-05-22,Dental check,Follow-up scheduled
+441,2025-02-24,Vaccination,Resolved
+332,2025-04-09,Skin irritation,Monitoring
+384,2025-02-04,Dental check,Monitoring
+83,2025-01-03,Skin irritation,Follow-up scheduled
+205,2025-04-25,Routine check,Follow-up scheduled
+136,2025-02-05,Skin irritation,Resolved
+302,2025-01-25,Dental check,Resolved
+2,2025-03-09,Skin irritation,Follow-up scheduled
+279,2025-06-27,Vaccination,Follow-up scheduled
+235,2025-04-20,Vaccination,Monitoring
+224,2025-06-15,Skin irritation,Follow-up scheduled
+469,2025-04-03,Skin irritation,Resolved
+491,2025-03-15,Routine check,Resolved
+448,2025-05-02,Skin irritation,Monitoring
+286,2025-06-09,Routine check,Monitoring
+360,2025-01-30,Vaccination,Monitoring
+180,2025-03-25,Routine check,Monitoring
+337,2025-05-19,Dental check,Resolved
+7,2025-03-02,Skin irritation,Monitoring
+118,2025-03-13,Skin irritation,Resolved
+420,2025-04-06,Skin irritation,Monitoring
+472,2025-05-20,Routine check,Follow-up scheduled
+116,2025-03-06,Dental check,Follow-up scheduled
+56,2025-02-13,Skin irritation,Follow-up scheduled
+105,2025-01-12,Dental check,Follow-up scheduled
+162,2025-01-31,Vaccination,Follow-up scheduled
+116,2025-06-17,Dental check,Monitoring
+211,2025-04-14,Dental check,Monitoring
+139,2025-02-25,Routine check,Resolved
+507,2025-04-30,Routine check,Resolved
+228,2025-04-30,Dental check,Monitoring
+384,2025-06-24,Skin irritation,Follow-up scheduled
+349,2025-04-23,Routine check,Resolved
+423,2025-03-01,Vaccination,Monitoring
+329,2025-06-05,Skin irritation,Follow-up scheduled
+205,2025-05-17,Dental check,Resolved
+423,2025-06-10,Routine check,Resolved
+299,2025-05-27,Vaccination,Monitoring
+285,2025-05-10,Skin irritation,Monitoring
+304,2025-04-11,Skin irritation,Resolved
+171,2025-04-29,Dental check,Monitoring
+437,2025-01-31,Dental check,Follow-up scheduled
+29,2025-04-21,Dental check,Follow-up scheduled
+131,2025-01-05,Dental check,Follow-up scheduled
+2,2025-04-11,Skin irritation,Monitoring
+319,2025-02-11,Routine check,Resolved
+308,2025-02-04,Skin irritation,Follow-up scheduled
+207,2025-04-12,Routine check,Monitoring
+13,2025-02-24,Skin irritation,Resolved
+113,2025-04-08,Vaccination,Monitoring
+201,2025-03-05,Routine check,Follow-up scheduled
+177,2025-02-12,Routine check,Monitoring
+509,2025-03-26,Routine check,Follow-up scheduled
+300,2025-06-10,Dental check,Follow-up scheduled
+386,2025-02-24,Vaccination,Follow-up scheduled
+515,2025-01-20,Skin irritation,Follow-up scheduled
+108,2025-03-22,Skin irritation,Monitoring
+140,2025-01-01,Dental check,Resolved
+185,2025-02-05,Dental check,Follow-up scheduled
+83,2025-01-11,Skin irritation,Resolved
+175,2025-06-01,Skin irritation,Resolved
+183,2025-04-18,Vaccination,Follow-up scheduled
+154,2025-05-23,Dental check,Follow-up scheduled
+9,2025-03-03,Skin irritation,Follow-up scheduled
+475,2025-05-10,Dental check,Resolved
+383,2025-02-15,Vaccination,Monitoring
+77,2025-05-09,Skin irritation,Monitoring
+238,2025-05-22,Skin irritation,Resolved
+393,2025-05-24,Vaccination,Monitoring
+97,2025-04-30,Vaccination,Follow-up scheduled
+440,2025-03-27,Skin irritation,Follow-up scheduled
+156,2025-06-27,Skin irritation,Monitoring
+393,2025-06-09,Skin irritation,Resolved
+416,2025-06-17,Routine check,Resolved
+335,2025-05-27,Routine check,Resolved
+114,2025-03-14,Dental check,Follow-up scheduled
+77,2025-01-31,Routine check,Monitoring
+248,2025-03-21,Skin irritation,Resolved
+98,2025-04-28,Dental check,Resolved
+511,2025-01-29,Routine check,Resolved
+509,2025-05-23,Dental check,Follow-up scheduled
+269,2025-06-09,Dental check,Resolved
+244,2025-06-11,Dental check,Resolved
+459,2025-02-07,Skin irritation,Monitoring
+60,2025-06-08,Dental check,Follow-up scheduled
+188,2025-02-23,Skin irritation,Monitoring
+55,2025-02-27,Routine check,Monitoring
+154,2025-04-27,Skin irritation,Monitoring
+282,2025-03-13,Skin irritation,Resolved
+381,2025-06-06,Skin irritation,Monitoring
+259,2025-04-13,Vaccination,Follow-up scheduled
+282,2025-01-08,Vaccination,Follow-up scheduled
+219,2025-01-01,Dental check,Resolved
+32,2025-03-28,Vaccination,Resolved
+195,2025-04-16,Vaccination,Monitoring
+275,2025-06-01,Routine check,Monitoring
+192,2025-03-31,Skin irritation,Monitoring
+403,2025-05-12,Dental check,Follow-up scheduled
+476,2025-05-03,Dental check,Monitoring
+308,2025-02-06,Vaccination,Follow-up scheduled
+284,2025-01-07,Dental check,Monitoring
+406,2025-04-10,Vaccination,Monitoring
+459,2025-06-17,Vaccination,Follow-up scheduled
+111,2025-06-17,Vaccination,Resolved
+126,2025-01-22,Dental check,Resolved
+74,2025-01-24,Routine check,Resolved
+469,2025-01-17,Skin irritation,Follow-up scheduled
+95,2025-04-23,Vaccination,Follow-up scheduled
+261,2025-02-10,Routine check,Monitoring
+106,2025-04-27,Skin irritation,Follow-up scheduled
+452,2025-01-26,Dental check,Resolved
+401,2025-06-15,Skin irritation,Resolved
+344,2025-02-04,Routine check,Follow-up scheduled
+212,2025-01-09,Routine check,Follow-up scheduled
+31,2025-04-20,Routine check,Follow-up scheduled
+129,2025-06-25,Skin irritation,Resolved
+187,2025-01-26,Vaccination,Monitoring
+401,2025-03-14,Routine check,Resolved
+300,2025-02-23,Dental check,Follow-up scheduled
+27,2025-04-10,Dental check,Resolved
+264,2025-04-10,Skin irritation,Monitoring
+268,2025-03-04,Vaccination,Resolved
+386,2025-05-21,Skin irritation,Monitoring
+442,2025-01-28,Vaccination,Resolved
+78,2025-03-22,Routine check,Monitoring
+198,2025-05-21,Skin irritation,Resolved
+289,2025-01-04,Skin irritation,Follow-up scheduled
+99,2025-06-24,Dental check,Monitoring
+454,2025-03-18,Dental check,Resolved
+107,2025-03-26,Skin irritation,Follow-up scheduled
+246,2025-01-26,Routine check,Follow-up scheduled
+291,2025-01-23,Vaccination,Monitoring
+460,2025-04-14,Routine check,Follow-up scheduled
+164,2025-05-07,Routine check,Follow-up scheduled
+54,2025-01-20,Vaccination,Resolved
+309,2025-01-29,Vaccination,Resolved
+396,2025-02-10,Routine check,Resolved
+144,2025-06-22,Dental check,Follow-up scheduled
+384,2025-01-02,Skin irritation,Follow-up scheduled
+322,2025-05-17,Routine check,Follow-up scheduled
+424,2025-04-01,Skin irritation,Follow-up scheduled
+208,2025-06-11,Skin irritation,Resolved
+272,2025-06-13,Vaccination,Resolved
+75,2025-01-21,Dental check,Follow-up scheduled
+258,2025-04-26,Routine check,Monitoring
+520,2025-04-28,Dental check,Monitoring
+129,2025-05-13,Routine check,Monitoring
+282,2025-01-08,Vaccination,Monitoring
+209,2025-04-02,Skin irritation,Monitoring
+495,2025-03-18,Skin irritation,Monitoring
+389,2025-01-10,Vaccination,Resolved
+502,2025-04-17,Vaccination,Monitoring
+139,2025-06-27,Skin irritation,Follow-up scheduled
+418,2025-05-04,Vaccination,Follow-up scheduled
+305,2025-06-27,Routine check,Resolved
+198,2025-05-04,Routine check,Follow-up scheduled
+14,2025-01-31,Dental check,Resolved
+46,2025-04-29,Routine check,Resolved
+11,2025-06-01,Routine check,Resolved
+518,2025-01-26,Skin irritation,Monitoring
+468,2025-03-13,Dental check,Monitoring
+213,2025-04-14,Skin irritation,Monitoring
+141,2025-04-18,Skin irritation,Resolved
+333,2025-02-19,Skin irritation,Resolved
+399,2025-05-05,Dental check,Resolved
+408,2025-04-10,Dental check,Follow-up scheduled
+438,2025-01-08,Skin irritation,Follow-up scheduled
+192,2025-01-12,Skin irritation,Resolved
+91,2025-02-10,Skin irritation,Follow-up scheduled
+150,2025-02-24,Routine check,Follow-up scheduled
+305,2025-05-02,Routine check,Resolved
+471,2025-01-07,Routine check,Monitoring
+436,2025-06-06,Routine check,Follow-up scheduled
+61,2025-02-02,Routine check,Follow-up scheduled
+362,2025-06-01,Skin irritation,Resolved
+487,2025-04-25,Vaccination,Monitoring
+392,2025-03-02,Dental check,Follow-up scheduled
+226,2025-03-24,Vaccination,Resolved
+318,2025-05-04,Routine check,Follow-up scheduled
+259,2025-01-19,Dental check,Follow-up scheduled
+494,2025-01-09,Dental check,Monitoring
+422,2025-04-28,Dental check,Resolved
+197,2025-05-17,Vaccination,Resolved
+304,2025-02-23,Routine check,Resolved
+451,2025-06-14,Routine check,Resolved
+277,2025-01-03,Vaccination,Monitoring
+196,2025-03-20,Vaccination,Follow-up scheduled
+309,2025-04-14,Routine check,Follow-up scheduled
+365,2025-04-07,Vaccination,Follow-up scheduled
+427,2025-04-09,Dental check,Follow-up scheduled
+439,2025-04-28,Skin irritation,Resolved
+369,2025-04-03,Dental check,Resolved
+239,2025-01-02,Vaccination,Resolved
+423,2025-01-15,Dental check,Follow-up scheduled
+512,2025-04-26,Skin irritation,Monitoring
+202,2025-05-01,Dental check,Follow-up scheduled
+330,2025-05-03,Dental check,Follow-up scheduled
+289,2025-02-11,Skin irritation,Monitoring
+261,2025-05-18,Skin irritation,Monitoring
+305,2025-03-12,Dental check,Resolved
+460,2025-05-04,Routine check,Follow-up scheduled
+265,2025-06-09,Skin irritation,Monitoring
+353,2025-01-11,Routine check,Monitoring
+55,2025-04-14,Routine check,Follow-up scheduled
+269,2025-06-05,Routine check,Resolved
+47,2025-04-03,Vaccination,Monitoring
+305,2025-06-14,Dental check,Follow-up scheduled
+276,2025-01-04,Routine check,Monitoring
+477,2025-02-01,Routine check,Follow-up scheduled
+491,2025-05-13,Vaccination,Follow-up scheduled
+152,2025-01-22,Skin irritation,Follow-up scheduled
+137,2025-04-07,Vaccination,Follow-up scheduled
+108,2025-02-14,Vaccination,Follow-up scheduled
+275,2025-03-04,Dental check,Monitoring
+340,2025-04-08,Vaccination,Resolved
+253,2025-05-18,Routine check,Follow-up scheduled
+443,2025-02-22,Dental check,Monitoring
+452,2025-01-27,Dental check,Monitoring
+345,2025-04-14,Vaccination,Monitoring
+402,2025-06-12,Vaccination,Resolved
+385,2025-04-08,Vaccination,Follow-up scheduled
+280,2025-01-21,Routine check,Resolved
+71,2025-05-16,Dental check,Follow-up scheduled
+124,2025-04-12,Dental check,Resolved
+411,2025-02-11,Vaccination,Follow-up scheduled
+229,2025-04-25,Dental check,Follow-up scheduled
+291,2025-03-18,Vaccination,Resolved
+345,2025-06-03,Vaccination,Resolved
+390,2025-06-27,Skin irritation,Monitoring
+83,2025-05-03,Routine check,Follow-up scheduled
+35,2025-06-10,Skin irritation,Resolved
+23,2025-04-30,Skin irritation,Resolved
+145,2025-06-19,Routine check,Resolved
+468,2025-01-07,Vaccination,Follow-up scheduled
+2,2025-05-02,Dental check,Resolved
+286,2025-05-05,Routine check,Resolved
+152,2025-03-07,Dental check,Follow-up scheduled
+446,2025-03-11,Skin irritation,Resolved
+137,2025-02-05,Skin irritation,Follow-up scheduled
+428,2025-04-24,Vaccination,Resolved
+399,2025-05-24,Routine check,Follow-up scheduled
+287,2025-06-10,Dental check,Monitoring
+44,2025-06-05,Vaccination,Resolved
+53,2025-05-15,Dental check,Monitoring
+39,2025-05-23,Vaccination,Resolved
+422,2025-02-16,Skin irritation,Follow-up scheduled
+419,2025-06-11,Vaccination,Resolved
+126,2025-06-18,Skin irritation,Monitoring
+43,2025-03-28,Skin irritation,Resolved
+155,2025-03-23,Dental check,Monitoring
+150,2025-05-19,Dental check,Resolved
+471,2025-06-18,Dental check,Follow-up scheduled
+378,2025-05-30,Skin irritation,Monitoring
+321,2025-06-06,Dental check,Follow-up scheduled
+506,2025-05-08,Vaccination,Resolved
+456,2025-03-25,Dental check,Monitoring
+253,2025-05-16,Skin irritation,Follow-up scheduled
+15,2025-01-12,Routine check,Resolved
+65,2025-04-15,Dental check,Monitoring
+444,2025-03-19,Vaccination,Monitoring
+72,2025-04-18,Skin irritation,Monitoring
+112,2025-04-28,Dental check,Follow-up scheduled
+410,2025-03-26,Dental check,Monitoring
+81,2025-05-11,Dental check,Follow-up scheduled
+189,2025-03-29,Routine check,Resolved
+329,2025-04-08,Skin irritation,Follow-up scheduled
+255,2025-02-10,Routine check,Resolved
+58,2025-03-23,Skin irritation,Resolved
+199,2025-06-20,Dental check,Resolved
+247,2025-02-18,Dental check,Resolved
+381,2025-06-21,Skin irritation,Resolved
+333,2025-06-22,Vaccination,Monitoring
+187,2025-03-16,Dental check,Monitoring
+139,2025-05-09,Dental check,Follow-up scheduled
+336,2025-02-12,Dental check,Monitoring
+402,2025-05-03,Dental check,Monitoring
+235,2025-03-10,Routine check,Monitoring
+151,2025-04-20,Dental check,Follow-up scheduled
+165,2025-06-29,Dental check,Monitoring
+277,2025-03-18,Routine check,Follow-up scheduled
+82,2025-04-17,Dental check,Resolved
+147,2025-01-15,Vaccination,Resolved
+302,2025-01-19,Dental check,Follow-up scheduled
+50,2025-02-28,Skin irritation,Resolved
+16,2025-01-25,Vaccination,Resolved
+297,2025-06-14,Skin irritation,Follow-up scheduled
+297,2025-03-18,Dental check,Monitoring
+416,2025-02-28,Routine check,Monitoring
+312,2025-04-09,Routine check,Resolved
+213,2025-02-15,Routine check,Follow-up scheduled
+91,2025-04-17,Routine check,Monitoring
+316,2025-04-28,Vaccination,Follow-up scheduled
+139,2025-01-06,Routine check,Monitoring
+24,2025-05-11,Vaccination,Resolved
+119,2025-04-07,Vaccination,Resolved
+99,2025-05-02,Skin irritation,Monitoring
+142,2025-06-26,Dental check,Monitoring
+280,2025-01-04,Vaccination,Follow-up scheduled
+206,2025-06-01,Routine check,Monitoring
+242,2025-04-06,Dental check,Monitoring
+278,2025-03-18,Dental check,Follow-up scheduled
+365,2025-03-18,Vaccination,Monitoring
+225,2025-01-08,Dental check,Resolved
+362,2025-04-25,Vaccination,Resolved
+497,2025-02-26,Skin irritation,Monitoring
+331,2025-05-28,Skin irritation,Follow-up scheduled
+325,2025-04-16,Skin irritation,Resolved
+265,2025-04-07,Vaccination,Follow-up scheduled
+26,2025-06-04,Vaccination,Resolved
+330,2025-01-30,Dental check,Resolved
+6,2025-02-01,Routine check,Follow-up scheduled
+158,2025-04-02,Dental check,Monitoring
+124,2025-05-27,Vaccination,Monitoring
+116,2025-03-19,Routine check,Resolved
+247,2025-04-09,Routine check,Follow-up scheduled
+362,2025-01-21,Vaccination,Monitoring
+358,2025-01-15,Skin irritation,Follow-up scheduled
+459,2025-03-22,Routine check,Monitoring
+517,2025-03-23,Skin irritation,Resolved
+59,2025-04-18,Routine check,Monitoring
+187,2025-04-10,Dental check,Follow-up scheduled
+326,2025-01-13,Vaccination,Resolved
+3,2025-03-11,Dental check,Monitoring
+487,2025-04-27,Vaccination,Resolved
+304,2025-02-08,Skin irritation,Monitoring
+377,2025-06-03,Vaccination,Resolved
+45,2025-03-25,Routine check,Resolved
+348,2025-06-03,Vaccination,Resolved
+55,2025-03-27,Vaccination,Monitoring
+229,2025-03-11,Skin irritation,Monitoring
+44,2025-02-01,Routine check,Resolved
+52,2025-01-27,Vaccination,Resolved
+70,2025-04-14,Dental check,Monitoring
+517,2025-05-29,Dental check,Follow-up scheduled
+406,2025-06-12,Dental check,Monitoring
+448,2025-06-16,Dental check,Monitoring
+366,2025-05-31,Dental check,Resolved
+245,2025-01-01,Skin irritation,Resolved
+146,2025-04-13,Vaccination,Follow-up scheduled
+266,2025-05-29,Skin irritation,Monitoring
+334,2025-06-18,Routine check,Follow-up scheduled
+169,2025-04-03,Routine check,Resolved
+263,2025-04-04,Skin irritation,Monitoring
+43,2025-01-21,Skin irritation,Follow-up scheduled
+234,2025-01-11,Routine check,Follow-up scheduled
+458,2025-02-01,Skin irritation,Monitoring
+105,2025-06-28,Skin irritation,Follow-up scheduled
+4,2025-01-11,Skin irritation,Follow-up scheduled
+13,2025-04-09,Vaccination,Resolved
+9,2025-05-30,Skin irritation,Resolved
+204,2025-01-31,Vaccination,Monitoring
+135,2025-05-30,Skin irritation,Resolved
+58,2025-05-24,Vaccination,Resolved
+260,2025-06-21,Vaccination,Follow-up scheduled
+179,2025-05-26,Vaccination,Monitoring
+22,2025-05-24,Routine check,Monitoring
+300,2025-05-07,Routine check,Monitoring
+245,2025-05-16,Vaccination,Resolved
+243,2025-04-04,Routine check,Monitoring
+201,2025-04-08,Vaccination,Monitoring
+372,2025-06-16,Routine check,Follow-up scheduled
+484,2025-01-02,Dental check,Resolved
+460,2025-01-16,Vaccination,Resolved
+502,2025-06-11,Routine check,Resolved
+75,2025-05-01,Dental check,Monitoring
+460,2025-04-24,Dental check,Monitoring
+146,2025-06-11,Routine check,Resolved
+420,2025-01-30,Dental check,Follow-up scheduled
+408,2025-06-16,Skin irritation,Follow-up scheduled
+193,2025-04-03,Vaccination,Follow-up scheduled
+436,2025-04-29,Vaccination,Resolved
+81,2025-06-10,Vaccination,Follow-up scheduled
+297,2025-04-25,Dental check,Follow-up scheduled
+422,2025-03-29,Vaccination,Resolved
+294,2025-04-08,Dental check,Monitoring
+263,2025-04-30,Routine check,Resolved
+26,2025-02-19,Skin irritation,Monitoring
+330,2025-03-31,Skin irritation,Monitoring
+243,2025-06-03,Dental check,Monitoring
+47,2025-03-30,Skin irritation,Follow-up scheduled
+355,2025-02-13,Vaccination,Follow-up scheduled
+130,2025-01-29,Vaccination,Resolved
+98,2025-02-15,Skin irritation,Follow-up scheduled
+344,2025-04-13,Dental check,Follow-up scheduled
+244,2025-03-26,Routine check,Follow-up scheduled
+512,2025-05-06,Dental check,Monitoring
+280,2025-04-06,Routine check,Resolved
+451,2025-06-21,Skin irritation,Resolved
+167,2025-05-27,Dental check,Follow-up scheduled
+85,2025-04-15,Vaccination,Follow-up scheduled
+252,2025-05-20,Skin irritation,Resolved
+274,2025-03-17,Skin irritation,Follow-up scheduled
+412,2025-04-29,Vaccination,Monitoring
+382,2025-04-16,Skin irritation,Monitoring
+119,2025-05-15,Vaccination,Follow-up scheduled
+478,2025-02-06,Vaccination,Follow-up scheduled
+329,2025-06-10,Routine check,Monitoring
+275,2025-06-12,Skin irritation,Resolved
+480,2025-04-24,Vaccination,Resolved
+325,2025-01-03,Routine check,Follow-up scheduled
+271,2025-06-26,Dental check,Follow-up scheduled
+214,2025-02-21,Skin irritation,Monitoring
+276,2025-02-07,Routine check,Resolved
+399,2025-06-29,Routine check,Follow-up scheduled
+468,2025-02-15,Vaccination,Follow-up scheduled
+155,2025-01-27,Skin irritation,Monitoring
+81,2025-05-24,Dental check,Resolved
+188,2025-05-20,Dental check,Follow-up scheduled
+322,2025-03-12,Routine check,Follow-up scheduled
+414,2025-03-03,Skin irritation,Resolved
+228,2025-05-02,Skin irritation,Monitoring
+306,2025-06-23,Vaccination,Resolved
+87,2025-05-03,Routine check,Follow-up scheduled
+62,2025-04-13,Routine check,Follow-up scheduled
+407,2025-05-20,Skin irritation,Monitoring
+304,2025-04-27,Vaccination,Follow-up scheduled
+458,2025-01-24,Routine check,Follow-up scheduled
+23,2025-05-15,Routine check,Follow-up scheduled
+280,2025-03-04,Skin irritation,Resolved
+325,2025-01-12,Vaccination,Follow-up scheduled
+264,2025-05-21,Dental check,Follow-up scheduled
+250,2025-03-31,Skin irritation,Resolved
+458,2025-05-16,Routine check,Follow-up scheduled
+461,2025-06-13,Dental check,Resolved
+359,2025-04-10,Skin irritation,Monitoring
+209,2025-02-03,Vaccination,Monitoring
+95,2025-05-10,Routine check,Monitoring
+139,2025-03-24,Routine check,Follow-up scheduled
+330,2025-04-12,Vaccination,Monitoring
+244,2025-01-24,Vaccination,Monitoring
+258,2025-03-02,Routine check,Monitoring
+161,2025-05-17,Vaccination,Monitoring
+156,2025-06-15,Routine check,Resolved
+66,2025-06-11,Dental check,Monitoring
+189,2025-03-17,Skin irritation,Monitoring
+409,2025-01-05,Vaccination,Resolved
+348,2025-01-07,Routine check,Monitoring
+151,2025-03-21,Skin irritation,Monitoring
+203,2025-04-29,Routine check,Monitoring
+24,2025-06-09,Dental check,Resolved
+251,2025-04-26,Vaccination,Resolved
+26,2025-03-02,Dental check,Monitoring
+462,2025-06-17,Dental check,Monitoring
+66,2025-06-23,Vaccination,Follow-up scheduled
+117,2025-04-14,Dental check,Follow-up scheduled
+442,2025-04-15,Dental check,Follow-up scheduled
+459,2025-05-21,Vaccination,Resolved
+49,2025-03-17,Vaccination,Resolved
+229,2025-03-02,Routine check,Resolved
+265,2025-01-04,Vaccination,Resolved
+51,2025-06-20,Skin irritation,Monitoring
+349,2025-05-04,Dental check,Resolved
+498,2025-01-19,Skin irritation,Follow-up scheduled
+152,2025-04-12,Skin irritation,Follow-up scheduled
+317,2025-06-25,Dental check,Follow-up scheduled
+322,2025-05-22,Vaccination,Monitoring
+245,2025-05-19,Skin irritation,Monitoring
+95,2025-05-28,Vaccination,Monitoring
+410,2025-03-20,Vaccination,Monitoring
+489,2025-01-15,Dental check,Follow-up scheduled
+239,2025-03-22,Dental check,Follow-up scheduled
+107,2025-06-01,Vaccination,Resolved
+328,2025-03-09,Dental check,Follow-up scheduled
+236,2025-01-20,Vaccination,Follow-up scheduled
+166,2025-06-16,Routine check,Monitoring
+421,2025-05-29,Routine check,Follow-up scheduled
+519,2025-03-11,Routine check,Monitoring
+82,2025-02-21,Vaccination,Resolved
+100,2025-03-09,Skin irritation,Monitoring
+211,2025-02-20,Routine check,Monitoring
+354,2025-04-22,Dental check,Follow-up scheduled
+248,2025-05-20,Dental check,Monitoring
+429,2025-05-26,Dental check,Resolved
+507,2025-06-26,Dental check,Follow-up scheduled
+154,2025-02-14,Skin irritation,Resolved
+333,2025-06-21,Dental check,Monitoring
+278,2025-03-20,Routine check,Monitoring
+147,2025-05-30,Skin irritation,Monitoring
+168,2025-01-13,Routine check,Resolved
+151,2025-01-07,Vaccination,Follow-up scheduled
+77,2025-02-03,Routine check,Resolved
+335,2025-03-18,Dental check,Resolved
+299,2025-04-23,Vaccination,Follow-up scheduled
+132,2025-02-05,Vaccination,Follow-up scheduled
+229,2025-02-04,Vaccination,Monitoring
+418,2025-03-14,Vaccination,Follow-up scheduled
+518,2025-05-31,Vaccination,Follow-up scheduled
+332,2025-06-09,Skin irritation,Monitoring
+327,2025-05-23,Routine check,Follow-up scheduled
+314,2025-02-28,Vaccination,Follow-up scheduled
+264,2025-04-22,Routine check,Monitoring
+173,2025-06-28,Dental check,Follow-up scheduled
+2,2025-05-20,Vaccination,Monitoring
+429,2025-03-12,Skin irritation,Monitoring
+157,2025-01-25,Dental check,Resolved
+141,2025-02-04,Skin irritation,Follow-up scheduled
+354,2025-06-01,Dental check,Monitoring
+337,2025-01-20,Vaccination,Follow-up scheduled
+253,2025-06-14,Skin irritation,Monitoring
+343,2025-06-02,Dental check,Resolved
+336,2025-05-16,Vaccination,Follow-up scheduled
+167,2025-03-05,Routine check,Follow-up scheduled
+292,2025-05-24,Dental check,Resolved
+433,2025-04-06,Vaccination,Resolved
+446,2025-02-12,Dental check,Monitoring
+203,2025-06-20,Dental check,Resolved
+78,2025-03-28,Vaccination,Resolved
+304,2025-05-24,Vaccination,Resolved
+171,2025-04-30,Vaccination,Monitoring
+17,2025-02-15,Routine check,Follow-up scheduled
+57,2025-06-25,Skin irritation,Follow-up scheduled
+503,2025-03-08,Skin irritation,Resolved
+137,2025-03-11,Vaccination,Resolved
+51,2025-06-27,Dental check,Follow-up scheduled
+5,2025-06-15,Vaccination,Follow-up scheduled
+477,2025-01-17,Vaccination,Resolved
+492,2025-01-06,Routine check,Follow-up scheduled
+241,2025-02-07,Vaccination,Resolved
+460,2025-04-20,Dental check,Monitoring
+382,2025-04-11,Skin irritation,Follow-up scheduled
+305,2025-02-18,Skin irritation,Follow-up scheduled
+113,2025-01-20,Skin irritation,Monitoring
+47,2025-04-13,Dental check,Follow-up scheduled
+396,2025-06-10,Vaccination,Resolved
+258,2025-04-20,Dental check,Monitoring
+61,2025-02-27,Vaccination,Follow-up scheduled
+310,2025-05-02,Vaccination,Monitoring
+391,2025-06-27,Skin irritation,Resolved
+491,2025-03-20,Dental check,Follow-up scheduled
+433,2025-03-24,Skin irritation,Follow-up scheduled
+356,2025-01-01,Skin irritation,Resolved
+158,2025-02-18,Routine check,Follow-up scheduled
+297,2025-04-14,Vaccination,Resolved
+502,2025-02-13,Routine check,Resolved
+100,2025-03-29,Vaccination,Resolved
+54,2025-03-16,Skin irritation,Resolved
+343,2025-04-07,Routine check,Resolved
+136,2025-05-11,Skin irritation,Monitoring
+361,2025-01-04,Skin irritation,Resolved
+75,2025-04-22,Vaccination,Monitoring
+401,2025-05-04,Skin irritation,Monitoring
+112,2025-04-02,Vaccination,Resolved
+390,2025-04-27,Routine check,Monitoring
+15,2025-03-25,Vaccination,Monitoring
+27,2025-03-28,Dental check,Resolved
+285,2025-04-20,Routine check,Resolved
+247,2025-04-03,Routine check,Follow-up scheduled
+12,2025-04-04,Routine check,Resolved
+98,2025-03-25,Vaccination,Resolved
+512,2025-06-17,Vaccination,Monitoring
+327,2025-04-10,Dental check,Follow-up scheduled
+495,2025-03-29,Dental check,Monitoring
+340,2025-02-25,Skin irritation,Monitoring
+420,2025-03-28,Routine check,Resolved
+376,2025-01-04,Dental check,Follow-up scheduled
+247,2025-04-02,Dental check,Resolved
+100,2025-05-15,Skin irritation,Follow-up scheduled
+152,2025-05-16,Routine check,Follow-up scheduled
+270,2025-04-07,Dental check,Resolved
+232,2025-05-27,Dental check,Follow-up scheduled
+429,2025-06-20,Routine check,Follow-up scheduled
+454,2025-04-14,Routine check,Resolved
+40,2025-06-12,Skin irritation,Follow-up scheduled
+498,2025-06-12,Routine check,Resolved
+372,2025-05-10,Vaccination,Follow-up scheduled
+155,2025-05-22,Vaccination,Monitoring
+237,2025-01-23,Dental check,Monitoring
+430,2025-05-19,Skin irritation,Resolved
+264,2025-04-04,Dental check,Resolved
+133,2025-03-29,Routine check,Follow-up scheduled
+284,2025-04-02,Skin irritation,Resolved
+223,2025-05-22,Dental check,Follow-up scheduled
+446,2025-03-18,Routine check,Resolved
+483,2025-01-17,Vaccination,Follow-up scheduled
+257,2025-05-29,Skin irritation,Resolved
+311,2025-05-27,Skin irritation,Monitoring
+428,2025-02-22,Vaccination,Follow-up scheduled
+158,2025-03-30,Skin irritation,Follow-up scheduled
+91,2025-03-24,Routine check,Follow-up scheduled
+219,2025-03-31,Routine check,Monitoring
+498,2025-02-09,Skin irritation,Resolved
+2,2025-05-05,Routine check,Monitoring
+112,2025-03-15,Dental check,Follow-up scheduled
+124,2025-01-27,Routine check,Resolved
+379,2025-03-30,Routine check,Follow-up scheduled
+197,2025-01-01,Dental check,Monitoring
+441,2025-01-06,Vaccination,Follow-up scheduled
+436,2025-03-29,Skin irritation,Monitoring
+31,2025-03-04,Routine check,Follow-up scheduled
+379,2025-01-14,Vaccination,Follow-up scheduled
+492,2025-02-10,Vaccination,Resolved
+486,2025-05-16,Vaccination,Follow-up scheduled
+139,2025-02-21,Dental check,Follow-up scheduled
+442,2025-05-19,Routine check,Monitoring
+88,2025-01-20,Routine check,Follow-up scheduled
+14,2025-04-29,Routine check,Monitoring
+498,2025-03-25,Vaccination,Monitoring
+512,2025-05-01,Routine check,Follow-up scheduled
+224,2025-04-30,Routine check,Monitoring
+265,2025-05-03,Skin irritation,Follow-up scheduled
+338,2025-01-15,Skin irritation,Follow-up scheduled
+387,2025-05-30,Skin irritation,Resolved
+248,2025-05-19,Dental check,Resolved
+373,2025-04-12,Dental check,Monitoring
+112,2025-03-11,Vaccination,Follow-up scheduled
+161,2025-03-21,Dental check,Resolved
+133,2025-01-03,Dental check,Follow-up scheduled
+299,2025-02-27,Skin irritation,Follow-up scheduled
+21,2025-01-29,Vaccination,Resolved
+198,2025-02-22,Skin irritation,Monitoring
+136,2025-01-23,Skin irritation,Follow-up scheduled
+154,2025-06-03,Routine check,Monitoring
+247,2025-05-05,Routine check,Resolved
+520,2025-01-26,Vaccination,Resolved
+215,2025-04-18,Vaccination,Resolved
+405,2025-06-25,Routine check,Monitoring
+405,2025-01-20,Vaccination,Resolved
+89,2025-05-22,Routine check,Monitoring
+453,2025-04-02,Vaccination,Follow-up scheduled
+308,2025-05-01,Skin irritation,Monitoring
+185,2025-01-03,Routine check,Resolved
+424,2025-03-21,Skin irritation,Monitoring
+273,2025-06-05,Dental check,Resolved
+122,2025-04-15,Skin irritation,Follow-up scheduled
+437,2025-04-07,Vaccination,Follow-up scheduled
+229,2025-01-18,Dental check,Follow-up scheduled
+311,2025-01-27,Skin irritation,Follow-up scheduled
+2,2025-05-17,Skin irritation,Follow-up scheduled
+303,2025-03-19,Vaccination,Follow-up scheduled
+60,2025-05-24,Vaccination,Monitoring
+301,2025-04-04,Routine check,Resolved
+231,2025-02-22,Skin irritation,Follow-up scheduled
+513,2025-06-02,Skin irritation,Follow-up scheduled
+309,2025-06-04,Vaccination,Follow-up scheduled
+500,2025-03-31,Routine check,Monitoring
+275,2025-06-28,Vaccination,Follow-up scheduled
+328,2025-05-19,Dental check,Resolved
+433,2025-02-14,Dental check,Monitoring
+271,2025-03-29,Skin irritation,Monitoring
+137,2025-04-16,Dental check,Follow-up scheduled
+259,2025-04-27,Routine check,Resolved
+174,2025-05-31,Dental check,Resolved
+163,2025-06-29,Dental check,Follow-up scheduled
+127,2025-04-16,Routine check,Follow-up scheduled
+230,2025-03-02,Vaccination,Resolved
+197,2025-04-25,Routine check,Monitoring
+499,2025-05-20,Routine check,Monitoring
+282,2025-01-02,Routine check,Follow-up scheduled
+81,2025-02-02,Vaccination,Monitoring
+437,2025-04-28,Vaccination,Monitoring
+80,2025-01-02,Routine check,Follow-up scheduled
+205,2025-06-05,Routine check,Monitoring

@@ -1,0 +1,15 @@
+name: dbt_pet_project
+version: '1.0.0'
+profile: dbt_pet_project
+model-paths: [models]
+test-paths: [tests]
+models:
+  dbt_pet_project:
+    transformations:
+      +schema: raw
+      +materialized: view
+      +tags: [transform]
+    final:
+      +schema: final
+      +materialized: table
+      +tags: [final]

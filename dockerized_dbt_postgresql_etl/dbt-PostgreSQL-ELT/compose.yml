@@ -1,0 +1,82 @@
+services:
+  db:
+    image: postgres:15.19
+    environment:
+      POSTGRES_USER: ${POSTGRES_ADMIN_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_ADMIN_PASSWORD}
+      POSTGRES_DB: postgres
+      PET_DB_USER: ${PET_DB_USER}
+      PET_DB_PASSWORD: ${PET_DB_PASSWORD}
+      PET_DB_NAME: ${PET_DB_NAME}
+      AIRFLOW_DB_USER: ${AIRFLOW_DB_USER}
+      AIRFLOW_DB_PASS: ${AIRFLOW_DB_PASS}
+      AIRFLOW_DB_NAME: ${AIRFLOW_DB_NAME}
+    ports:
+      - "127.0.0.1:${POSTGRES_HOST_PORT:-5433}:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./postgres/init/airflow_init.sh:/docker-entrypoint-initdb.d/airflow_init.sh:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_ADMIN_USER} -d postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    networks:
+      - my-network
+
+  af:
+    build:
+      context: ./docker/airflow
+      dockerfile: Dockerfile
+    image: ${AIRFLOW_IMAGE:-dbt-pet-airflow:3.3.1}
+    ports:
+      - "127.0.0.1:${AIRFLOW_HOST_PORT:-8000}:8080"
+    environment:
+      AIRFLOW_DB_USER: ${AIRFLOW_DB_USER}
+      AIRFLOW_DB_PASS: ${AIRFLOW_DB_PASS}
+      AIRFLOW_DB_NAME: ${AIRFLOW_DB_NAME}
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN_CMD: python /opt/airflow/metadata_url.py
+      AIRFLOW__CORE__SIMPLE_AUTH_MANAGER_PASSWORDS_FILE: /opt/airflow/state/passwords.json
+      PET_DB_USER: ${PET_DB_USER}
+      PET_DB_PASSWORD: ${PET_DB_PASSWORD}
+      PET_DB_NAME: ${PET_DB_NAME}
+      DBT_POSTGRES_USER: ${PET_DB_USER}
+      DBT_POSTGRES_PASSWORD: ${PET_DB_PASSWORD}
+      DBT_POSTGRES_NAME: ${PET_DB_NAME}
+      DBT_POSTGRES_HOST: db
+      DBT_POSTGRES_PORT: 5432
+      DBT_PROFILES_DIR: /opt/airflow/dbt
+      DBT_LOG_PATH: /opt/airflow/logs/dbt
+      DBT_TARGET_PATH: /opt/airflow/dbt-target
+      RAW_DIR: /opt/airflow/raw_data
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags:ro
+      - airflow_logs:/opt/airflow/logs
+      - ./dbt_pet_project:/opt/airflow/dbt:ro
+      - type: bind
+        source: ${RAW_DATA_HOST_DIR:-./raw_data}
+        target: /opt/airflow/raw_data
+        read_only: true
+      - airflow_state:/opt/airflow/state
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+      - my-network
+    healthcheck:
+      test: ["CMD", "python", "/opt/airflow/healthcheck.py"]
+      interval: 15s
+      timeout: 10s
+      retries: 20
+      start_period: 60s
+    command: ["bash", "/opt/airflow/start.sh"]
+
+volumes:
+  postgres_data:
+  airflow_logs:
+  airflow_state:
+
+networks:
+  my-network:
+    driver: bridge
