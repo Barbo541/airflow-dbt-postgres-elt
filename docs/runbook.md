@@ -23,7 +23,7 @@ healthy, and no DAG import errors.
 ```sh
 docker compose exec af airflow dags unpause load_raw_data_and_transform
 docker compose exec af airflow dags trigger load_raw_data_and_transform
-docker compose exec af airflow dags list-runs -d load_raw_data_and_transform
+docker compose exec af airflow dags list-runs load_raw_data_and_transform
 ```
 
 The DAG is intentionally serialized with `max_active_runs=1`. Do not run the
@@ -35,7 +35,7 @@ loader manually while a DAG run is active.
 docker compose ps
 docker compose exec af python /opt/airflow/healthcheck.py
 docker compose exec af airflow dags list-import-errors
-docker compose exec af airflow dags list-runs -d load_raw_data_and_transform
+docker compose exec af airflow dags list-runs load_raw_data_and_transform
 docker compose exec af ls /opt/airflow/logs
 docker compose exec af ls /opt/airflow/logs/dbt
 ```
