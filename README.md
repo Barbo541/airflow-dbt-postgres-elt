@@ -150,7 +150,7 @@ Then trigger the pipeline:
 ```sh
 docker compose exec af airflow dags unpause load_raw_data_and_transform
 docker compose exec af airflow dags trigger load_raw_data_and_transform
-docker compose exec af airflow dags list-runs -d load_raw_data_and_transform
+docker compose exec af airflow dags list-runs load_raw_data_and_transform
 ```
 
 Query the final product from PostgreSQL on `127.0.0.1:5433` with the configured
